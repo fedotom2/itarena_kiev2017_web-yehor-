@@ -1,0 +1,20 @@
+{
+  "name": "itse",
+  "authors": [
+    "Yehor Vikulov <yehor.vikulov@gmail.com>"
+  ],
+  "description": "IT-Arena: Kiev 2017 Web",
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.0"
+  }
+}
